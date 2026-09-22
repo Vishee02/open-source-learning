@@ -1,6 +1,6 @@
 # Contributors 🎉
 
-| Aman Bhardawaj | aman-0905 | B-tech(CSE) Student of 2nd year and intrested in Full Stack Development and AI - trying to contribute in open source|
+Aman Bhardwaj | aman-0905 | 2nd-year CSE student learning web development, AI and DSA.
 
 | Swarn Shrivastav | SWARN425 | B-tech(CSE) Student of 2nd year and intrested in artifical intelligence and machine learning-trying to contribute in open source|
 
