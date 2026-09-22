@@ -9,3 +9,6 @@ Aman Bhardwaj | aman-0905 | 2nd-year CSE student learning web development, AI an
 | Tushar Agarwala | Tushar-162 | [@Tushar-162] | Btech 2nd year learning  Web Development |
 
 | Manish Pandey | manishpandey01-max | B-Tech (CSE) , A student of 2nd year interested in Web Development and CyberSecurity.|
+
+| KUNDAN KUMAR | [@Kundan840] (https://github.com/Kundan840) | 2nd yr student , eager to learn
+anything |
